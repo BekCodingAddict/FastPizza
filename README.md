@@ -5,10 +5,10 @@
 
 ### Project Requirments:
 
-- [ ] Very simple application, where user can order one or more pizzas from a menu
+- [x] Very simple application, where user can order one or more pizzas from a menu
 - [x] Required no user accaunt and no login:users just input their names befor useing app
 - [x] The pizza menu can change, so it should be loaded from an API
-- [ ] User can add multiple pizzas to a cart befor ordering
+- [x] User can add multiple pizzas to a cart befor ordering
 - [x] Ordering requires just the user's name,phone number, and addres
 - [ ] If possible, GPS location should also be provided, to make deliver easier
 - [x] User's can make their order as "pirority" for an additional 20% of cart price
