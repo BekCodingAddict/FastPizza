@@ -6,7 +6,7 @@
 ### Project Requirments:
 
 - [ ] Very simple application, where user can order one or more pizzas from a menu
-- [ ] Required no user accaunt and no login:users just input their names befor useing app
+- [x] Required no user accaunt and no login:users just input their names befor useing app
 - [x] The pizza menu can change, so it should be loaded from an API
 - [ ] User can add multiple pizzas to a cart befor ordering
 - [x] Ordering requires just the user's name,phone number, and addres
