@@ -10,7 +10,7 @@
 - [x] The pizza menu can change, so it should be loaded from an API
 - [x] User can add multiple pizzas to a cart befor ordering
 - [x] Ordering requires just the user's name,phone number, and addres
-- [ ] If possible, GPS location should also be provided, to make deliver easier
+- [x] If possible, GPS location should also be provided, to make deliver easier
 - [x] User's can make their order as "pirority" for an additional 20% of cart price
 - [x] Orders are made by sending POST request with the order data (user data+selected pizzas) to the API
 - [x] Payment are made on delivery, so no payment processing in necessary in the app\
