@@ -80,3 +80,8 @@
 - Enhanced knowledge of complex routing systems (react-router-dom) and efficient global state management with redux.
 ### 🚨 Debugging Skills
 - Learned how tools like vite-plugin-eslint streamline debugging by detecting issues during development.
+
+## Problems & Challanges
+| Error & Problem Title | Status | Difficult | Date |
+|--|--|--|--|
+|[🎨 TailwindCSS Conflicts](https://github.com/BekCodingAddict/FastPizza/blob/master/Problems/TailwindCSS-Conflicts.md) | solved | low | Oct 3, 2024 |
