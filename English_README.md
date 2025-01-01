@@ -1,7 +1,7 @@
-# FastPizza
+# 🍕 What is Fast Pizza React App?
 
 > [!NOTE]
-> The Fast React Pizza app is a modern, multi-page pizza ordering web application built using React and a variety of supporting technologies. The main purpose of this project is to provide a fully functional pizza ordering system where users can browse pizza options, add items to a cart, view detailed orders, and manage their profiles.
+>The Fast Pizza React App is a modern, multi-page pizza ordering web application built with React. It provides users with a convenient platform to browse pizza options, add items to a cart, and place orders without the need for creating an account. The app is designed to be simple, intuitive, and easy to use for pizza lovers everywhere.
 
 ### Project Requirments:
 
@@ -37,6 +37,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-  
-  
 </p>
+
+## Key Features of Fast Pizza App:
+### 🛒 Pizza Menu
+- The pizza menu is dynamic and can be updated easily through an API, ensuring that users always have the latest options to choose from.
+### 👤 No User Account or Login
+- Users don't need to create an account to place an order. All that is required is their name before they start using the app.
+### 🍽️ Order Multiple Pizzas
+- Users can add one or more pizzas to their cart before placing an order, making the process flexible and customizable.
+### 📍 Location Services
+- For ease of delivery, users can provide their GPS location, which helps ensure accurate delivery to their doorstep.
+### 💳 Order Priority
+- Users can mark their orders as "priority" for an additional 20% of the cart price, ensuring faster delivery.
+### 📦 Unique Order ID
+- Every order receives a unique ID, allowing users to track or look up their orders later.
+### 📱 Order Form
+- To place an order, users only need to input their name, phone number, and address. No payment processing is required within the app, as payments are made on delivery.
+### 🛑 Post-Order Priority Update
+- Even after placing an order, users can still update their order to "priority" status, giving them flexibility in managing their orders.
+
