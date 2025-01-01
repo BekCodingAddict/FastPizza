@@ -84,4 +84,4 @@
 ## Problems & Challanges
 | Error & Problem Title | Status | Difficult | Date |
 |--|--|--|--|
-|[🎨 TailwindCSS Conflicts](https://github.com/BekCodingAddict/FastPizza/blob/master/Problems/TailwindCSS-Conflicts.md) | solved | low | Oct 3, 2024 |
+|[🎨 TailwindCSS Conflicts](https://github.com/BekCodingAddict/FastPizza/blob/master/Problems/TailwindCSS-Conflicts.md) | ![solved](https://img.shields.io/badge/solved-blue) | low | Oct 3, 2024 |
