@@ -88,4 +88,24 @@
 |--|--|--|--|
 |[🎨 TailwindCSS Conflicts](https://github.com/BekCodingAddict/FastPizza/blob/master/Problems/TailwindCSS-Conflicts.md) | ![solved](https://img.shields.io/badge/solved-blue) | low | Oct 3, 2024 |
 
-## UI Screenshots
+## UI/UX
+<img width="1593" height="1078" alt="FastPizzaMobile" src="https://github.com/user-attachments/assets/d1b55289-afd7-4bdf-b8a9-f340469e2ce9" />
+
+Home:
+<img width="1404" height="935" alt="FastPizza" src="https://github.com/user-attachments/assets/9b0c22a7-9320-42d4-ad6a-d96771621e90" />
+
+Cart:
+<img width="1285" height="958" alt="FastPizza-Cart" src="https://github.com/user-attachments/assets/9a8f19e3-d529-4c29-9be9-78dc270cc72d" />
+
+Menu:
+<img width="1287" height="943" alt="FastPizza-Menu" src="https://github.com/user-attachments/assets/966f8dfe-207a-481e-8218-2d6d8a90e711" />
+
+Order:
+<img width="1280" height="958" alt="FastPizza-Order" src="https://github.com/user-attachments/assets/dcc23a18-97a3-4ece-9fbd-16041fae3efd" />
+
+Ordering:
+<img width="1283" height="902" alt="FastPizza-Ordering" src="https://github.com/user-attachments/assets/4db76d0f-648b-4e01-9a9d-6e491cdb66b9" />
+
+
+
+
